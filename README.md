@@ -1,18 +1,14 @@
-# CODTL
-CODON OPTIMIZATION DEOPTIMIZATION TOOL FOR LEGUME
-Welcome to Legume DNA Optimization tool- CODTL (codon optimization and deoptimization tool for legume), an application designed to help you is a free online tool for performing codon optimization to improve gene expression, you can upload your DNA sequences or Amino Acid sequence and apply codon bias optimization techniques to enhance gene expression specifically in legumes. Whether you're a researcher, biologist, or genetic engineer, this app provides you with the tools you need to design DNA sequences tailored to legumes.
-Installation
+# CODTL: Codon Optimization and Deoptimization Tool for Legume
 
-    Download CODTL by
-    
+**Welcome to CODTL**, a free online application designed to assist researchers in performing codon optimization to improve gene expression in legumes. You can upload your DNA or amino acid sequences and apply codon bias optimization techniques tailored specifically for legumes. Whether you're a researcher, biologist, or genetic engineer, CODTL provides the tools you need to design DNA sequences optimized for legume expression.
+
+## Installation
+
+To get started with CODTL, you can download it using one of the following methods:
+
+**Option 1: Clone the Repository**
+
+If you have Git installed, you can clone the repository with the following command:
+
 ```bash
 git clone https://github.com/Khyati006/CODTL.git
-
-or Download CODTL by : click on download zip option
-
-    Run CODTL
-```bash
-streamlit run CODTL.py
-
-Help
-Go to the tutorial section of the webpage opened.

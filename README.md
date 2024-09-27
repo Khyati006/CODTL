@@ -8,8 +8,8 @@ Download COTDL by
    ```
    git clone https://github.com/darkest-opson/COTDL.git
    ```
-   
-3. **Download the ZIP file:**
+   or Download COTDL by : click on download zip option
+2. **Run CODTL**
    Click on the "Download ZIP" option from the repository page.
   ```
    streamlit run COTDL.py

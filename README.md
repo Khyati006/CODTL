@@ -6,7 +6,7 @@ Welcome to the **Legume DNA Optimization tool - CODTL**. This free online applic
 Download COTDL by
 1. **Clone the repository:**
    ```
-   git clone https://github.com/darkest-opson/COTDL.git
+   git clone https://github.com/Khyati006/CODTL.git
    ```
    or Download COTDL by : click on download zip option
    

@@ -13,8 +13,6 @@ If you have Git installed, you can clone the repository with the following comma
 ```bash
 git clone https://github.com/Khyati006/CODTL.git
 
-
-Help
-Go to the tutorial section of the webpage opened.
+echo "Help: Go to the tutorial section of the webpage opened."
 
 

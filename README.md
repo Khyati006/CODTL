@@ -11,14 +11,8 @@ To get started with CODTL, you can download it using one of the following method
 If you have Git installed, you can clone the repository with the following command:
 
 ```bash
-git clone https://github.com/Khyati006/CODTL.git'''
+git clone https://github.com/Khyati006/CODTL.git
 
-or Download CODTL by : click on download zip option
-
-Run CODTL
-
-```bash
-streamlit run COTDL.py'''
 
 Help
 Go to the tutorial section of the webpage opened.
